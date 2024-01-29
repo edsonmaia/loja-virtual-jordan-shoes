@@ -69,12 +69,13 @@ numberFormat.format(valor)
 
 ~~~
 
-## Intt.NumberFormat
+## Links da Documentação
 
+> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString
 > https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
 
 ## Considerações
 
-Nesta aula extra vimos como fazer a formatação de valores numéricos no estilo monetário utilizando 
+Nesta aula extra vimos como fazer a formatação de valores numéricos no estilo monetário utilizando toLocaleString e Intl.NumberFormat
 
 Salve Devs, até as próximas!
