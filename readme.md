@@ -39,12 +39,22 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 6. [Aula 06 - Jordan Shoes - Formatação de números](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula06-jordan-shoes.md)
 
+7. [Aula 06 - Jordan Shoes - Página Detalhes do Produto](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula07-jordan-shoes.md)
+
 ## Vídeos no YouTube
 
 1. [Aula 01 Criar Loja Virtual Projeto Web Jordan Shoes - HTML](https://youtu.be/so7T_7iUPx8)
+
 2. [Aula 02 Criar Loja Virtual Projeto Web Jordan Shoes - Formatação CSS](https://youtu.be/_yK83irn3zU)
+
 3. [Aula 03 Criar Loja Virtual Projeto Web Jordan Shoes - Cards Dinâmicos](https://youtu.be/LzzoYGqnjcQ)
+
 4. [Aula 04 Criar Loja Virtual Projeto Web Jordan Shoes - Responsividade](https://youtu.be/ogk5uVNK3FM)
+
 5. [Aula 05 Criar Loja Virtual Projeto Web Jordan Shoes - Deploy](https://youtu.be/PtLAKEWo2uY)
+
+6. [Aula 06 Criar Loja Virtual Projeto Web Jordan Shoes - Formatar Números](https://youtu.be/p2vg8PiFbJE)
+
+7. [Aula 07 Criar Loja Virtual Projeto Web Jordan Shoes - Página Detalhes do Produto](https://youtu.be/QXkB2Im3Qyc)
 
 Salve Devs, até as próximas aulas!
