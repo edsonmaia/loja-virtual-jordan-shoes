@@ -59,6 +59,6 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 7. [Aula 07 Criar Loja Virtual Projeto Web Jordan Shoes - Página Detalhes do Produto](https://youtu.be/QXkB2Im3Qyc)
 
-8. [Aula 08 Criar Loja Virtual Projeto Web Jordan Shoes - Navegação entre páginas](Em breve)
+8. [Aula 08 Criar Loja Virtual Projeto Web Jordan Shoes - Navegação entre páginas](https://youtu.be/-x532FU1UNI)
 
 Salve Devs, até as próximas aulas!
