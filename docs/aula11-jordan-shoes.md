@@ -39,28 +39,36 @@
     <h2>Carrinho</h2>
     <table>
         <thead>
-            <th>id</th>
-            <th>Produto</th>
-            <th>Tamanho</th>
-            <th>Preço</th>
-            <th class="coluna_apagar">Apagar</th>
+            <tr>
+                <th>id</th>
+                <th>Produto</th>
+                <th>Tamanho</th>
+                <th>Preço</th>
+                <th class="coluna_apagar">Apagar</th>
+            </tr>
         </thead>
         <tbody>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td class="coluna_apagar">-</td>
+            <tr>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td class="coluna_apagar">-</td>
+            </tr>
         </tbody>
         <tfoot>
-            <td colspan="3"><strong>TOTAL</strong></td>
-            <td class="coluna_total">-</td>
-            <td></td>
+            <tr>
+                <td colspan="3"><strong>TOTAL</strong></td>
+                <td class="coluna_total">-</td>
+                <td></td>
+            </tr>
         </tfoot>
     </table>
-    </section>
+</section>
 
 ~~~
+
+> Só depois percebi que não tinha colocado o th e td dentro das tags tr.
 
 4. Salve as alterações.
 
