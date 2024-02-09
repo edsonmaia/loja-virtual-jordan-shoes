@@ -87,6 +87,6 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 14. [Aula 14 Criar Loja Virtual Projeto Web Jordan Shoes - Exibir Total e Apagar itens](https://youtu.be/ViuUml_Cgu0)
 
-15. [Aula 14 Criar Loja Virtual Projeto Web Jordan Shoes - Refatoração](EmBreve)
+15. [Aula 14 Criar Loja Virtual Projeto Web Jordan Shoes - Refatoração](https://youtu.be/C46rjdCYa8Q)
 
 Salve Devs, até as próximas aulas!
