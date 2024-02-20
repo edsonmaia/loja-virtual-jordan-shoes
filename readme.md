@@ -59,6 +59,8 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 16. [SHORT Loja Virtual Jordan Shoes - Funções Úteis](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula16-jordan-shoes.md)
 
+17. [Aula 17 - Jordan Shoes - Detalhes do Carrinho + Módulos JS](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula17-jordan-shoes.md)
+
 ## Vídeos no YouTube
 
 1. [Aula 01 Criar Loja Virtual Projeto Web Jordan Shoes - HTML](https://youtu.be/so7T_7iUPx8)
@@ -92,5 +94,7 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 15. [Aula 15 Criar Loja Virtual Projeto Web Jordan Shoes - Refatoração](https://youtu.be/C46rjdCYa8Q)
 
 16. [SHORT Loja Virtual Jordan Shoes - Funções Úteis](https://www.youtube.com/shorts/4zRIjYJXXpE)
+
+17. [Aula 17 Criar Loja Virtual Projeto Web Jordan Shoes - Detalhes do Carrinho + Módulos JS](https://youtu.be/BdFCR3RIB_M)
 
 Salve Devs, até as próximas aulas!
