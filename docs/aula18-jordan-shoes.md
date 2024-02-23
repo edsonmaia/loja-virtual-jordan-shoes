@@ -35,7 +35,7 @@
         </div>
         <div class="input">
             <label for="numero">Número*</label>
-            <input type="text" id="endereco" class="input" maxlength="10" required />
+            <input type="text" id="numero" class="input" maxlength="10" required />
         </div>
         <div class="input">
             <label for="bairro">Bairro*</label>
