@@ -63,6 +63,11 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 18. [Aula 18 - Jordan Shoes - Identificação, Pagamento e Navegação](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula18-jordan-shoes.md)
 
+19. [Aula 19 - Jordan Shoes - Processar Formulário](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula19-jordan-shoes.md)
+
+20. [Aula 20 - Jordan Shoes - Validar Formulário](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula20-jordan-shoes.md)
+
+
 ## Vídeos no YouTube
 
 1. [Aula 01 Criar Loja Virtual Projeto Web Jordan Shoes - HTML](https://youtu.be/so7T_7iUPx8)
@@ -100,5 +105,9 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 17. [Aula 17 Criar Loja Virtual Projeto Web Jordan Shoes - Detalhes do Carrinho + Módulos JS](https://youtu.be/BdFCR3RIB_M)
 
 18. [Aula 18 Criar Loja Virtual Projeto Web Jordan Shoes - Identificação, Pagamento e Navegação](https://www.youtube.com/watch?v=z9cl-mR6c-8)
+
+19. [Aula 19 Criar Loja Virtual Projeto Web Jordan Shoes - Processar Formulário](https://www.youtube.com/watch?v=l8F5G5v8oFo)
+
+20. [Aula 20 Criar Loja Virtual Projeto Web Jordan Shoes - Validar Formulário](https://www.youtube.com/watch?v=SK7HWV_9Tx0)
 
 Salve Devs, até as próximas aulas!
