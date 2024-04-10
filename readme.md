@@ -67,6 +67,10 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 20. [Aula 20 - Jordan Shoes - Validar Formulário](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula20-jordan-shoes.md)
 
+21. [Aula 21 - Jordan Shoes - Validar Formulário e Controle de Fluxo](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula21-jordan-shoes.md)
+
+22. [Aula 22 - Jordan Shoes - Preencher endereço usando API de CEP](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula22-jordan-shoes.md)
+
 
 ## Vídeos no YouTube
 
@@ -109,5 +113,9 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 19. [Aula 19 Criar Loja Virtual Projeto Web Jordan Shoes - Processar Formulário](https://www.youtube.com/watch?v=l8F5G5v8oFo)
 
 20. [Aula 20 Criar Loja Virtual Projeto Web Jordan Shoes - Validar Formulário](https://www.youtube.com/watch?v=SK7HWV_9Tx0)
+
+21. [Aula 21 Criar Loja Virtual Projeto Web Jordan Shoes - Validar Formulário e Controle de Fluxo](https://www.youtube.com/watch?v=tKkixaBwUCo)
+
+22. [Aula 22 Criar Loja Virtual Projeto Web Jordan Shoes - Preencher endereço usando API de CEP](https://www.youtube.com/watch?v=muz3G0YBKy0)
 
 Salve Devs, até as próximas aulas!
