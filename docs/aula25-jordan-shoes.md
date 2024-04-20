@@ -1,6 +1,6 @@
 # Aula 25 - Jordan Shoes - Controle de login do usuário
 
-> Nesta aula fazer 
+> Nesta aula fazer um controle de login de usuário 'simplificado' com o objetivo de pegar os dados de um formulário que tem email e senha, fazer uma 'validação/verificação' e usar os dados para identificar o 'usuário logado' utilizando o email como identificador e criando a lógica de login e logout.
 
 ## Controle de login
 
