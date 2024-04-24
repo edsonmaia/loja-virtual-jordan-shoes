@@ -77,6 +77,8 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 25. [Aula 25 - Jordan Shoes - Controle de login do usuário](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula25-jordan-shoes.md)
 
+26. [Aula 26 - Jordan Shoes - Cadastro de Usuário](https://github.com/edsonmaia/loja-virtual-jordan-shoes/blob/main/docs/aula26-jordan-shoes.md)
+
 
 ## Vídeos no YouTube
 
@@ -129,5 +131,7 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 24. [Aula 24 Criar Loja Virtual Projeto Web Jordan Shoes - Ajustes na interface e uso do localStorage](https://www.youtube.com/watch?v=7O_-ImzmNuY)
 
 25. [Aula 25 Criar Loja Virtual Projeto Web Jordan Shoes - Controle de login](https://youtu.be/qvbTvtb7JBQ)
+
+26. [Aula 26 Criar Loja Virtual Projeto Web Jordan Shoes - Cadastro de Usuário](https://youtu.be/coi-Srfr1tA)
 
 Salve Devs, até as próximas aulas!
