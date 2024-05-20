@@ -1,3 +1,18 @@
+# Aula 30 - Jordan Shoes - Refatorar é preciso
+
+> Nesta aula vamos fazer alguma refatorações do nosso código. Neste momento, o script.js está com cerca de 615 linhas.
+
+## Refatorar o código
+
+1. Apague todas as linhas de comentários desnecessários.
+2. Apague todas as linhas em branco que não contribuem para a legibilidade.
+3. Apague todos os console.log.
+4. Refatore ações, agrupando em funções e fazendo a chamada das funções no local requerido.
+5. Faça os testes para ver se o código está funcionando.
+
+Antes de refatorar, nosso código tem cerca de 615 linhas. Veja abaixo o código refatorado, agora com 518 linhas, ou seja, quase 100 linhas a menos:
+
+~~~javascript
 import { numberFormatBR, limparFormatoReal } from './utils.js'
 
 const sectionHero = document.querySelector('.hero')
@@ -515,3 +530,21 @@ const zerarCarrinho = () => {
     atualizarCarrinho(cart)
     atualizarNumeroItens()
 }
+
+~~~
+
+> Salve as alterações e teste.
+
+## Dicas de outras refatorações
+
+1. Ações de ocultarElemento e mostrarElemento para mostrar uma página, poderiam ser encapsuladas em funções e serem chamadas no momento requerido. Ex.: irParaCarrinho()
+2. Ações nos escutadores de eventos serem agrupadas em funções por responsabilidade específica, por exemplo, pegarDados, validarDados, processarPagamento etc.
+3. Ver ações que se repetem e procurar abstrair em funções que recebam parâmetros e possam ser reaproveitadas, por exemplo as funções mostrarModal e fecharModal poderiam receber como parâmetro o nome do elemento a ser mostrado ou fechado.
+
+> O objetivo na refatoração não é "só reduzir a quantidade de linhas", ele tem como foco melhorar a legibilidade do código, evitando repetições, tornando o código mais fácil de ser lido, ter manutenção e ser extendido.
+
+## Considerações
+
+> Esta aula vimos como fazer algumas refatorações para ajustar nosso código. Por enquanto, vamos finalizar essa série. Em outro momento iremos trabalhar a parte de back-end e integração com o front-end.
+
+Salve Devs, até as próximas!
